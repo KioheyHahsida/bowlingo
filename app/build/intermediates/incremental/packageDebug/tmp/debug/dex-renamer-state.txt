@@ -1,0 +1,4 @@
+#Wed May 13 22:26:02 JST 2020
+base.0=C\:\\Users\\Kio\\AndroidStudioProjects\\Bowlingo\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
