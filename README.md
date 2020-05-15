@@ -8,7 +8,7 @@ randomly selected bowling scores will be set on each buttons which are square fo
 
  
 # Usage
- choose the setting of the Bingo sheet end tap start
+ choose the setting of the Bingo sheet  tap start
  
 # Note
 
